@@ -1,4 +1,0 @@
-package systeminfo
-
-func GetRamInfo() {
-}
