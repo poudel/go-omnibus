@@ -1,0 +1,4 @@
+package systeminfo
+
+func GetRamInfo() {
+}
